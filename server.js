@@ -121,7 +121,7 @@ function setupLogging() {
             copyItemsToSite(dataDir);
         }
         scheduleFunction(5, 0, 0, async () => {
-            items = await analysis.updateData(dataDir);
+            await analysis.updateData(dataDir);
             copyItemsToSite(dataDir);
         });
     } else {
@@ -159,7 +159,7 @@ function setupLogging() {
         chokidar.watch("site/output").on("all", () => {
             clearTimeout(timeoutId);
             timeoutId = setTimeout(() => {
-                lastChangeTimestamp = Date.now();
+                const lastChangeTimestamp = Date.now();
                 for (let i = 0; i < sockets.length; i++) {
                     sockets[i].send(`${lastChangeTimestamp}`);
                 }

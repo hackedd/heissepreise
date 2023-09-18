@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "description": "Aardappelen, groente & fruit -> Aardappelen",
+    "url": "https://www.dekamarkt.nl/producten/aardappelen-groente-fruit/aardappelen",
+    "code": "01"
+  },
+  {
+    "id": 3,
+    "description": "Aardappelen, groente & fruit -> Groente",
+    "url": "https://www.dekamarkt.nl/producten/aardappelen-groente-fruit/groente",
+    "code": "01"
+  },
+  {
+    "id": 4,
+    "description": "Aardappelen, groente & fruit -> Sla & verse kruiden",
+    "url": "https://www.dekamarkt.nl/producten/aardappelen-groente-fruit/sla-verse-kruiden",
+    "code": "02"
+  },
+  {
+    "id": 5,
+    "description": "Aardappelen, groente & fruit -> Fruit",
+    "url": "https://www.dekamarkt.nl/producten/aardappelen-groente-fruit/fruit",
+    "code": "00"
+  },
+  {
+    "id": 6,
+    "description": "Aardappelen, groente & fruit -> Gedroogd fruit & noten",
+    "url": "https://www.dekamarkt.nl/producten/aardappelen-groente-fruit/gedroogd-fruit-noten",
+    "code": "03"
+  },
+  {
+    "id": 7,
+    "description": "Vlees & vis -> Rundvlees",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/rundvlees",
+    "code": "32"
+  },
+  {
+    "id": 8,
+    "description": "Vlees & vis -> Varkensvlees",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/varkensvlees",
+    "code": "32"
+  },
+  {
+    "id": 9,
+    "description": "Vlees & vis -> Vleeswaren",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/vleeswaren",
+    "code": "37"
+  },
+  {
+    "id": 10,
+    "description": "Vlees & vis -> Vis",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/vis",
+    "code": "39"
+  },
+  {
+    "id": 11,
+    "description": "Vlees & vis -> Vlugklaar",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/vlugklaar",
+    "code": "32"
+  },
+  {
+    "id": 13,
+    "description": "Vlees & vis -> Kip & kalkoen",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/kip-kalkoen",
+    "code": "32"
+  },
+  {
+    "id": 14,
+    "description": "Vlees & vis -> Gehakt & worst",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/gehakt-worst",
+    "code": "32"
+  },
+  {
+    "id": 15,
+    "description": "Vlees & vis -> Vleesconserven",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/vleesconserven",
+    "code": "32"
+  },
+  {
+    "id": 16,
+    "description": "Vlees & vis -> BBQ, gourmet & fondue",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/bbq-gourmet-fondue",
+    "code": "32"
+  },
+  {
+    "id": 17,
+    "description": "Vlees & vis -> Overig vlees & gevogelte",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/overig-vlees-gevogelte",
+    "code": "32"
+  },
+  {
+    "id": 18,
+    "description": "Vlees & vis -> Lamsvlees",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/lamsvlees",
+    "code": "32"
+  },
+  {
+    "id": 19,
+    "description": "Vlees & vis -> Vegetarisch",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/vegetarisch",
+    "code": "3B"
+  },
+  {
+    "id": 20,
+    "description": "Brood, beleg & koek -> Afbakbrood",
+    "url": "https://www.dekamarkt.nl/producten/brood-beleg-koek/afbakbrood",
+    "code": "10"
+  },
+  {
+    "id": 21,
+    "description": "Brood, beleg & koek -> Brood",
+    "url": "https://www.dekamarkt.nl/producten/brood-beleg-koek/brood",
+    "code": "11"
+  },
+  {
+    "id": 22,
+    "description": "Brood, beleg & koek -> Bolletjes & croissants",
+    "url": "https://www.dekamarkt.nl/producten/brood-beleg-koek/bolletjes-croissants"
+  },
+  {
+    "id": 24,
+    "description": "Brood, beleg & koek -> Koekjes",
+    "url": "https://www.dekamarkt.nl/producten/brood-beleg-koek/koekjes",
+    "code": "13"
+  },
+  {
+    "id": 25,
+    "description": "Brood, beleg & koek -> Ontbijtkoek",
+    "url": "https://www.dekamarkt.nl/producten/brood-beleg-koek/ontbijtkoek"
+  },
+  {
+    "id": 26,
+    "description": "Brood, beleg & koek -> Broodjes & snacks",
+    "url": "https://www.dekamarkt.nl/producten/brood-beleg-koek/broodjes-snacks"
+  },
+  {
+    "id": 27,
+    "description": "Zuivel & kaas -> Kaas gesneden",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/kaas-gesneden",
+    "code": "33"
+  },
+  {
+    "id": 28,
+    "description": "Zuivel & kaas -> Melk & karnemelk",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/melk-karnemelk"
+  },
+  {
+    "id": 29,
+    "description": "Zuivel & kaas -> Eieren",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/eieren",
+    "code": "31"
+  },
+  {
+    "id": 30,
+    "description": "Zuivel & kaas -> Toetjes",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/toetjes",
+    "code": "34"
+  },
+  {
+    "id": 31,
+    "description": "Zuivel & kaas -> Yoghurt, kwark & pap",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/yoghurt-kwark-pap",
+    "code": "34"
+  },
+  {
+    "id": 32,
+    "description": "Zuivel & kaas -> Boter & margarine",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/boter-margarine",
+    "code": "33"
+  },
+  {
+    "id": 33,
+    "description": "Zuivel & kaas -> Slagroom & kookroom",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/slagroom-kookroom",
+    "code": "34"
+  },
+  {
+    "id": 34,
+    "description": "Zuivel & kaas -> Zuiveldranken",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/zuiveldranken"
+  },
+  {
+    "id": 35,
+    "description": "Zuivel & kaas -> Kaas stuk",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/kaas-stuk",
+    "code": "33"
+  },
+  {
+    "id": 36,
+    "description": "Zuivel & kaas -> Lactosevrije zuivel",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/lactosevrije-zuivel"
+  },
+  {
+    "id": 37,
+    "description": "Zuivel & kaas -> Overige kazen",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/overige-kazen"
+  },
+  {
+    "id": 38,
+    "description": "Dranken, sap, koffie & thee -> Frisdranken",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/frisdranken",
+    "code": "20"
+  },
+  {
+    "id": 39,
+    "description": "Dranken, sap, koffie & thee -> Mineraal- & bronwater",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/mineraal-bronwater",
+    "code": "26"
+  },
+  {
+    "id": 40,
+    "description": "Dranken, sap, koffie & thee -> Vruchtensappen",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/vruchtensappen",
+    "code": "20"
+  },
+  {
+    "id": 41,
+    "description": "Dranken, sap, koffie & thee -> Limonade",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/limonade",
+    "code": "20"
+  },
+  {
+    "id": 42,
+    "description": "Dranken, sap, koffie & thee -> Aperitieven & mixen",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/aperitieven-mixen"
+  },
+  {
+    "id": 43,
+    "description": "Dranken, sap, koffie & thee -> Wijn",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/wijn",
+    "code": "25"
+  },
+  {
+    "id": 44,
+    "description": "Dranken, sap, koffie & thee -> Bier",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/bier",
+    "code": "21"
+  },
+  {
+    "id": 48,
+    "description": "Dranken, sap, koffie & thee -> Slijterij",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/slijterij",
+    "code": "24"
+  },
+  {
+    "id": 49,
+    "description": "Voorraadkast -> Bakproducten & suiker",
+    "url": "https://www.dekamarkt.nl/producten/voorraadkast/bakproducten-suiker",
+    "code": "52"
+  },
+  {
+    "id": 52,
+    "description": "Voorraadkast -> Internationale keuken",
+    "url": "https://www.dekamarkt.nl/producten/voorraadkast/internationale-keuken",
+    "code": "58"
+  },
+  {
+    "id": 55,
+    "description": "Voorraadkast -> Oliën, sauzen & mixen",
+    "url": "https://www.dekamarkt.nl/producten/voorraadkast/oliën-sauzen-mixen"
+  },
+  {
+    "id": 56,
+    "description": "Voorraadkast -> Muesli, cereals & pap",
+    "url": "https://www.dekamarkt.nl/producten/voorraadkast/muesli-cereals-pap"
+  },
+  {
+    "id": 57,
+    "description": "Voorraadkast -> Pasta & pasta sauzen",
+    "url": "https://www.dekamarkt.nl/producten/voorraadkast/pasta-pasta-sauzen"
+  },
+  {
+    "id": 59,
+    "description": "Voorraadkast -> Kruiden & specerijen",
+    "url": "https://www.dekamarkt.nl/producten/voorraadkast/kruiden-specerijen"
+  },
+  {
+    "id": 60,
+    "description": "Voorraadkast -> Speciale voeding",
+    "url": "https://www.dekamarkt.nl/producten/voorraadkast/speciale-voeding"
+  },
+  {
+    "id": 65,
+    "description": "Maaltijden, salades & tapas -> Houdbare maaltijden",
+    "url": "https://www.dekamarkt.nl/producten/maaltijden-salades-tapas/houdbare-maaltijden"
+  },
+  {
+    "id": 66,
+    "description": "Maaltijden, salades & tapas -> Houdbare soepen",
+    "url": "https://www.dekamarkt.nl/producten/maaltijden-salades-tapas/houdbare-soepen"
+  },
+  {
+    "id": 67,
+    "description": "Maaltijden, salades & tapas -> Tapas",
+    "url": "https://www.dekamarkt.nl/producten/maaltijden-salades-tapas/tapas"
+  },
+  {
+    "id": 68,
+    "description": "Maaltijden, salades & tapas -> Verse maaltijden",
+    "url": "https://www.dekamarkt.nl/producten/maaltijden-salades-tapas/verse-maaltijden"
+  },
+  {
+    "id": 69,
+    "description": "Diepvries -> Diepvries fruit & deeg",
+    "url": "https://www.dekamarkt.nl/producten/diepvries/diepvries-fruit-deeg"
+  },
+  {
+    "id": 70,
+    "description": "Diepvries -> Diepvries aardappelproducten",
+    "url": "https://www.dekamarkt.nl/producten/diepvries/diepvries-aardappelproducten"
+  },
+  {
+    "id": 71,
+    "description": "Diepvries -> Diepvries dierenvoeding",
+    "url": "https://www.dekamarkt.nl/producten/diepvries/diepvries-dierenvoeding"
+  },
+  {
+    "id": 72,
+    "description": "Diepvries -> Diepvries brood & gebak",
+    "url": "https://www.dekamarkt.nl/producten/diepvries/diepvries-brood-gebak"
+  },
+  {
+    "id": 73,
+    "description": "Diepvries -> Diepvries groente",
+    "url": "https://www.dekamarkt.nl/producten/diepvries/diepvries-groente"
+  },
+  {
+    "id": 74,
+    "description": "Diepvries -> IJs",
+    "url": "https://www.dekamarkt.nl/producten/diepvries/ijs"
+  },
+  {
+    "id": 76,
+    "description": "Diepvries -> Diepvries pizza's & maaltijden",
+    "url": "https://www.dekamarkt.nl/producten/diepvries/diepvries-pizza-s-maaltijden"
+  },
+  {
+    "id": 77,
+    "description": "Diepvries -> Diepvries snacks",
+    "url": "https://www.dekamarkt.nl/producten/diepvries/diepvries-snacks"
+  },
+  {
+    "id": 78,
+    "description": "Diepvries -> Diepvries vis",
+    "url": "https://www.dekamarkt.nl/producten/diepvries/diepvries-vis"
+  },
+  {
+    "id": 79,
+    "description": "Diepvries -> Diepvries vlees",
+    "url": "https://www.dekamarkt.nl/producten/diepvries/diepvries-vlees"
+  },
+  {
+    "id": 80,
+    "description": "Huishoud & huisdieren -> Huisdieren",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/huisdieren"
+  },
+  {
+    "id": 81,
+    "description": "Huishoud & huisdieren -> Luchtverfrissers",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/luchtverfrissers"
+  },
+  {
+    "id": 82,
+    "description": "Huishoud & huisdieren -> (Vuilnis)zakken & folies",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/(vuilnis)zakken-folies"
+  },
+  {
+    "id": 83,
+    "description": "Huishoud & huisdieren -> Afwasmiddelen & -benodigdheden",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/afwasmiddelen-benodigdheden"
+  },
+  {
+    "id": 84,
+    "description": "Huishoud & huisdieren -> Schoonmaakmiddelen",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/schoonmaakmiddelen"
+  },
+  {
+    "id": 85,
+    "description": "Huishoud & huisdieren -> Schoonmaakbenodigdheden",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/schoonmaakbenodigdheden"
+  },
+  {
+    "id": 86,
+    "description": "Huishoud & huisdieren -> Wasmiddel & verzachters",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/wasmiddel-verzachters"
+  },
+  {
+    "id": 87,
+    "description": "Huishoud & huisdieren -> Toilet-, keukenpapier & tissues",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/toilet-keukenpapier-tissues"
+  },
+  {
+    "id": 88,
+    "description": "Huishoud & huisdieren -> Toiletreinigers & verfrissers",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/toiletreinigers-verfrissers"
+  },
+  {
+    "id": 89,
+    "description": "Huishoud & huisdieren -> Lampen & batterijen",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/lampen-batterijen"
+  },
+  {
+    "id": 90,
+    "description": "Huishoud & huisdieren -> Kaarsen",
+    "url": "https://www.dekamarkt.nl/producten/huishoud-huisdieren/kaarsen"
+  },
+  {
+    "id": 91,
+    "description": "Kind & drogisterij -> Babyverzorging",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/babyverzorging"
+  },
+  {
+    "id": 92,
+    "description": "Kind & drogisterij -> Babyvoeding 0 - 4 maanden",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/babyvoeding-0-4-maanden"
+  },
+  {
+    "id": 93,
+    "description": "Kind & drogisterij -> Bad, douche & zeep",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/bad-douche-zeep"
+  },
+  {
+    "id": 94,
+    "description": "Kind & drogisterij -> Deodorant",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/deodorant"
+  },
+  {
+    "id": 95,
+    "description": "Kind & drogisterij -> Huidverzorging",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/huidverzorging"
+  },
+  {
+    "id": 96,
+    "description": "Kind & drogisterij -> Dameshygiëne",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/dameshygiëne"
+  },
+  {
+    "id": 97,
+    "description": "Kind & drogisterij -> Mondverzorging",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/mondverzorging"
+  },
+  {
+    "id": 98,
+    "description": "Kind & drogisterij -> Scheren",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/scheren"
+  },
+  {
+    "id": 100,
+    "description": "Kind & drogisterij -> Intimiteit",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/intimiteit"
+  },
+  {
+    "id": 101,
+    "description": "Kind & drogisterij -> Haarverzorging",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/haarverzorging"
+  },
+  {
+    "id": 112,
+    "description": "Non food inout -> non food inout",
+    "url": "https://www.dekamarkt.nl/producten/non-food-inout/non-food-inout"
+  },
+  {
+    "id": 129,
+    "description": "Aardappelen, groente & fruit -> Fruitconserven",
+    "url": "https://www.dekamarkt.nl/producten/aardappelen-groente-fruit/fruitconserven"
+  },
+  {
+    "id": 130,
+    "description": "Aardappelen, groente & fruit -> Groenteconserven",
+    "url": "https://www.dekamarkt.nl/producten/aardappelen-groente-fruit/groenteconserven"
+  },
+  {
+    "id": 131,
+    "description": "Vlees & vis -> Visconserven",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/visconserven"
+  },
+  {
+    "id": 132,
+    "description": "Maaltijden, salades & tapas -> Maaltijdsalades",
+    "url": "https://www.dekamarkt.nl/producten/maaltijden-salades-tapas/maaltijdsalades"
+  },
+  {
+    "id": 134,
+    "description": "Maaltijden, salades & tapas -> Salades",
+    "url": "https://www.dekamarkt.nl/producten/maaltijden-salades-tapas/salades"
+  },
+  {
+    "id": 135,
+    "description": "Zuivel & kaas -> Vla",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/vla"
+  },
+  {
+    "id": 136,
+    "description": "Non food -> Non food",
+    "url": "https://www.dekamarkt.nl/producten/non-food/non-food"
+  },
+  {
+    "id": 137,
+    "description": "Kind & drogisterij -> Babyvoeding vanaf 4 maanden",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/babyvoeding-vanaf-4-maanden"
+  },
+  {
+    "id": 138,
+    "description": "Kind & drogisterij -> Babyvoeding vanaf 6 maanden",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/babyvoeding-vanaf-6-maanden"
+  },
+  {
+    "id": 139,
+    "description": "Kind & drogisterij -> Babyvoeding vanaf 8 maanden",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/babyvoeding-vanaf-8-maanden"
+  },
+  {
+    "id": 140,
+    "description": "Kind & drogisterij -> Babyvoeding vanaf 12 maanden",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/babyvoeding-vanaf-12-maanden"
+  },
+  {
+    "id": 141,
+    "description": "Kind & drogisterij -> Babyvoeding vanaf 15 maanden",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/babyvoeding-vanaf-15-maanden"
+  },
+  {
+    "id": 142,
+    "description": "Kind & drogisterij -> Peutervoeding vanaf 24 maanden",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/peutervoeding-vanaf-24-maanden"
+  },
+  {
+    "id": 143,
+    "description": "Kind & drogisterij -> Peutervoeding vanaf 36 maanden",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/peutervoeding-vanaf-36-maanden"
+  },
+  {
+    "id": 144,
+    "description": "Brood, beleg & koek -> Broodbeleg",
+    "url": "https://www.dekamarkt.nl/producten/brood-beleg-koek/broodbeleg"
+  },
+  {
+    "id": 145,
+    "description": "Brood, beleg & koek -> Beschuit & crackers",
+    "url": "https://www.dekamarkt.nl/producten/brood-beleg-koek/beschuit-crackers"
+  },
+  {
+    "id": 146,
+    "description": "Dranken, sap, koffie & thee -> Koffie & cacao",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/koffie-cacao"
+  },
+  {
+    "id": 147,
+    "description": "Dranken, sap, koffie & thee -> Thee",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/thee"
+  },
+  {
+    "id": 148,
+    "description": "Dranken, sap, koffie & thee -> Koffiemelk",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/koffiemelk"
+  },
+  {
+    "id": 149,
+    "description": "Voorraadkast -> Rijst, couscous & quinoa",
+    "url": "https://www.dekamarkt.nl/producten/voorraadkast/rijst-couscous-quinoa"
+  },
+  {
+    "id": 150,
+    "description": "Snacks & snoep -> Chips",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/chips"
+  },
+  {
+    "id": 151,
+    "description": "Snacks & snoep -> Chocolade",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/chocolade"
+  },
+  {
+    "id": 152,
+    "description": "Snacks & snoep -> Drop",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/drop"
+  },
+  {
+    "id": 153,
+    "description": "Snacks & snoep -> Kauwgom",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/kauwgom"
+  },
+  {
+    "id": 154,
+    "description": "Snacks & snoep -> Noten & pinda's",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/noten-pinda-s"
+  },
+  {
+    "id": 155,
+    "description": "Snacks & snoep -> Popcorn & toastjes",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/popcorn-toastjes"
+  },
+  {
+    "id": 156,
+    "description": "Snacks & snoep -> Snoep",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/snoep"
+  },
+  {
+    "id": 157,
+    "description": "Snacks & snoep -> Zoutjes",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/zoutjes"
+  },
+  {
+    "id": 158,
+    "description": "Maaltijden, salades & tapas -> Verse sauzen",
+    "url": "https://www.dekamarkt.nl/producten/maaltijden-salades-tapas/verse-sauzen"
+  },
+  {
+    "id": 159,
+    "description": "Non food -> Overige non food",
+    "url": "https://www.dekamarkt.nl/producten/non-food/overige-non-food"
+  },
+  {
+    "id": 161,
+    "description": "Kind & drogisterij -> Geneesmiddelen",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/geneesmiddelen"
+  },
+  {
+    "id": 162,
+    "description": "Non food -> Kantoorartikelen",
+    "url": "https://www.dekamarkt.nl/producten/non-food/kantoorartikelen"
+  },
+  {
+    "id": 163,
+    "description": "Vlees & vis -> Biologische vlees, kip & vleeswaren",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/biologische-vlees-kip-vleeswaren"
+  },
+  {
+    "id": 167,
+    "description": "Brood, beleg & koek -> Vers klein gebak",
+    "url": "https://www.dekamarkt.nl/producten/brood-beleg-koek/vers-klein-gebak"
+  },
+  {
+    "id": 169,
+    "description": "Kind & drogisterij -> Zonnebrand",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/zonnebrand"
+  },
+  {
+    "id": 170,
+    "description": "Snacks & snoep -> Mondverfrissers & keelpastilles",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/mondverfrissers-keelpastilles"
+  },
+  {
+    "id": 171,
+    "description": "Kind & drogisterij -> Luiers",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/luiers"
+  },
+  {
+    "id": 172,
+    "description": "Aardappelen, groente & fruit -> Biologisch AGF",
+    "url": "https://www.dekamarkt.nl/producten/aardappelen-groente-fruit/biologisch-agf"
+  },
+  {
+    "id": 173,
+    "description": "Brood, beleg & koek -> Biologisch brood, beleg & koek",
+    "url": "https://www.dekamarkt.nl/producten/brood-beleg-koek/biologisch-brood-beleg-koek"
+  },
+  {
+    "id": 177,
+    "description": "Dranken, sap, koffie & thee -> Biologisch dranken, sap, koffie & thee",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/biologisch-dranken-sap-koffie-thee"
+  },
+  {
+    "id": 178,
+    "description": "Zuivel & kaas -> Biologisch zuivel & kaas",
+    "url": "https://www.dekamarkt.nl/producten/zuivel-kaas/biologisch-zuivel-kaas"
+  },
+  {
+    "id": 179,
+    "description": "Voorraadkast -> Biologische voorraadkast",
+    "url": "https://www.dekamarkt.nl/producten/voorraadkast/biologische-voorraadkast"
+  },
+  {
+    "id": 180,
+    "description": "Kind & drogisterij -> Biologisch kind & drogisterij",
+    "url": "https://www.dekamarkt.nl/producten/kind-drogisterij/biologisch-kind-drogisterij"
+  },
+  {
+    "id": 181,
+    "description": "Snacks & snoep -> Biologische snacks & snoep",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/biologische-snacks-snoep"
+  },
+  {
+    "id": 183,
+    "description": "Vlees & vis -> Halal vlees & kip",
+    "url": "https://www.dekamarkt.nl/producten/vlees-vis/halal-vlees-kip"
+  },
+  {
+    "id": 185,
+    "description": "Snacks & snoep -> Seizoens zoetwaren",
+    "url": "https://www.dekamarkt.nl/producten/snacks-snoep/seizoens-zoetwaren"
+  },
+  {
+    "id": 186,
+    "description": "Dranken, sap, koffie & thee -> Houdbare zuivel",
+    "url": "https://www.dekamarkt.nl/producten/dranken-sap-koffie-thee/houdbare-zuivel"
+  }
+]
