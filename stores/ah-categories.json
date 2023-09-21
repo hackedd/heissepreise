@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1043,
+    "description": "Frisdrank, sappen, koffie, thee",
+    "url": "https://www.ah.nl/producten/frisdrank-sappen-koffie-thee"
+  },
+  {
+    "id": 1045,
+    "description": "Drogisterij",
+    "url": "https://www.ah.nl/producten/drogisterij"
+  },
+  {
+    "id": 1057,
+    "description": "Koken, tafelen, vrije tijd",
+    "url": "https://www.ah.nl/producten/koken-tafelen-vrije-tijd"
+  },
+  {
+    "id": 1165,
+    "description": "Huishouden",
+    "url": "https://www.ah.nl/producten/huishouden"
+  },
+  {
+    "id": 1301,
+    "description": "Salades, pizza, maaltijden",
+    "url": "https://www.ah.nl/producten/salades-pizza-maaltijden"
+  },
+  {
+    "id": 1355,
+    "description": "Bakkerij en banket",
+    "url": "https://www.ah.nl/producten/bakkerij-en-banket"
+  },
+  {
+    "id": 1555,
+    "description": "Snoep, koek, chips en chocolade",
+    "url": "https://www.ah.nl/producten/snoep-koek-chips-en-chocolade"
+  },
+  {
+    "id": 1662,
+    "description": "Vlees, kip, vis, vega",
+    "url": "https://www.ah.nl/producten/vlees-kip-vis-vega"
+  },
+  {
+    "id": 1688,
+    "description": "Wijn en bubbels",
+    "url": "https://www.ah.nl/producten/wijn-en-bubbels"
+  },
+  {
+    "id": 1730,
+    "description": "Zuivel, plantaardig en eieren",
+    "url": "https://www.ah.nl/producten/zuivel-plantaardig-en-eieren"
+  },
+  {
+    "id": 1796,
+    "description": "Pasta, rijst en wereldkeuken",
+    "url": "https://www.ah.nl/producten/pasta-rijst-en-wereldkeuken"
+  },
+  {
+    "id": 2457,
+    "description": "Tussendoortjes",
+    "url": "https://www.ah.nl/producten/tussendoortjes"
+  },
+  {
+    "id": 5881,
+    "description": "Diepvries",
+    "url": "https://www.ah.nl/producten/diepvries"
+  },
+  {
+    "id": 6401,
+    "description": "Aardappel, groente, fruit",
+    "url": "https://www.ah.nl/producten/aardappel-groente-fruit"
+  },
+  {
+    "id": 6402,
+    "description": "Kaas, vleeswaren, tapas",
+    "url": "https://www.ah.nl/producten/kaas-vleeswaren-tapas"
+  },
+  {
+    "id": 6405,
+    "description": "Ontbijtgranen en beleg",
+    "url": "https://www.ah.nl/producten/ontbijtgranen-en-beleg"
+  },
+  {
+    "id": 6406,
+    "description": "Bier en aperitieven",
+    "url": "https://www.ah.nl/producten/bier-en-aperitieven"
+  },
+  {
+    "id": 6409,
+    "description": "Soepen, sauzen, kruiden, olie",
+    "url": "https://www.ah.nl/producten/soepen-sauzen-kruiden-olie"
+  },
+  {
+    "id": 18519,
+    "description": "Huisdier",
+    "url": "https://www.ah.nl/producten/huisdier"
+  },
+  {
+    "id": 18521,
+    "description": "Baby en kind",
+    "url": "https://www.ah.nl/producten/baby-en-kind"
+  },
+  {
+    "id": 18527,
+    "description": "Sport- en dieetvoeding",
+    "url": "https://www.ah.nl/producten/sport-en-dieetvoeding"
+  }
+]

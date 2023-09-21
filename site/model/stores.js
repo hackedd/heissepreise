@@ -109,6 +109,13 @@ exports.stores = {
         defaultChecked: true,
         getUrl: (item) => `https://www.dekamarkt.nl/producten/${item.url}`,
     },
+    ah: {
+        name: "Albert Heijn",
+        budgetBrands: [],
+        color: "blue",
+        defaultChecked: true,
+        getUrl: (item) => `https://www.ah.nl/producten/${item.url}`,
+    },
 };
 
 exports.STORE_KEYS = Object.keys(exports.stores);
