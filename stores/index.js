@@ -14,3 +14,4 @@
 // exports.bipa = require("./bipa");
 exports.dekamarkt = require("./dekamarkt");
 exports.ah = require("./ah");
+exports.jumbo = require("./jumbo");

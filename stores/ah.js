@@ -155,3 +155,6 @@ exports.mapCategory = (rawItem) => {
     const taxonomyId = rawItem.taxonomies.find((taxonomy) => taxonomy.level === 1).id;
     return exports.categoryLookup[taxonomyId]?.code;
 };
+
+exports.parseUnitSize = parseUnitSize;
+exports.units = units;

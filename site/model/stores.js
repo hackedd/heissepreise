@@ -116,6 +116,13 @@ exports.stores = {
         defaultChecked: true,
         getUrl: (item) => `https://www.ah.nl/producten/${item.url}`,
     },
+    jumbo: {
+        name: "Jumbo",
+        budgetBrands: [],
+        color: "yellow",
+        defaultChecked: true,
+        getUrl: (item) => `https://www.jumbo.com/producten/${item.url}`,
+    },
 };
 
 exports.STORE_KEYS = Object.keys(exports.stores);
