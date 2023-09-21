@@ -19,6 +19,7 @@ const translations = {
     cs: require("./locales/cs.json"),
     de: require("./locales/de.json"),
     en: require("./locales/en.json"),
+    nl: require("./locales/nl.json"),
 };
 /**
  * @type {string[]}
@@ -27,7 +28,7 @@ const locales = Object.keys(translations);
 /**
  * @type {string}
  */
-const defaultLocale = "de";
+const defaultLocale = "nl";
 
 /**
  * @param {!string} locale name of the language to use for translation, MUST be one of the supported languages
