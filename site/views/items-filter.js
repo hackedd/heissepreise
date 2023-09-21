@@ -98,7 +98,7 @@ class ItemsFilter extends View {
                             (category, index) => /*html*/ `
                         <custom-checkbox
                             x-id="category-${index}" x-state x-change
-                            label="${category.name}"
+                            label="${__(category.name)}"
                             class="indigo"
                         ></custom-checkbox>`
                         )
@@ -316,7 +316,7 @@ class ItemsFilter extends View {
             const checkbox = elements["category-" + category.index];
             if (filteredCategories[category.index] > 0) {
                 if (queryChanged) checkbox.checked = false;
-                checkbox.label = `${category.name} (${filteredCategories[category.index]})`;
+                checkbox.label = `${__(category.name)} (${filteredCategories[category.index]})`;
                 checkbox.classList.remove("hidden");
             } else {
                 if (queryChanged) checkbox.checked = true;
